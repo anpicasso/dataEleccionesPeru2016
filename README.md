@@ -48,7 +48,7 @@ codigo codigoLocalVotacion codigoDistrito
 Actas Votacion
 --------------
 ```
-codigoMesa codigoDistrito votosMaximos votosTotales [1..10](Votos por partido] votosBlancos votosNulos
+codigoMesa codigoDistrito votosMaximos votosTotales [1..10](Votos por partido) votosBlancos votosNulos
 000169 010202 298 210 58 5 1 83 2 24 4 20 0 2 0 11
 000170 010202 298 219 44 18 0 89 4 26 7 13 3 1 1 13
 ...
