@@ -7,6 +7,10 @@ Departamentos
 -------------
 ```
 CODE TYPE NAME
+010000 P AMAZONAS
+020000 P ANCASH
+...
+
 Type = P or E; P from Peru, E from Exterior.
 ```
 
